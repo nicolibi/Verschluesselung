@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace Verschluesselung
 {
+    /// <summary>
+    /// Übung zu Udemy Kurs "C# Grundlagen üben mit System - Buchstaben verschieben"
+    /// Autor des Kurs: Jan Suchotzki
+    /// 
+    /// code erstellt von Nicole Bieger
+    /// </summary>
     class Program
     {
         public static string PlainUserText { get; set; }
