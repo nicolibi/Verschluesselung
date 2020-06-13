@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{BEB6324A-3EA6-42AF-B6C5-970C5B9339C8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Verschluesserlung</RootNamespace>
-    <AssemblyName>Verschluesserlung</AssemblyName>
+    <RootNamespace>Verschluesselung</RootNamespace>
+    <AssemblyName>Verschluesselung</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
