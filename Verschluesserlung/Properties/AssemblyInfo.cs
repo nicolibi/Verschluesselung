@@ -5,14 +5,15 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("Verschluesserlung")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Verschluesselung")]
+[assembly: AssemblyDescription("Verschlüsselung mit ROT13, Übung zu C# Übungskurs von Jan Suchotzki")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Verschluesserlung")]
+[assembly: AssemblyProduct("Verschluesselung")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
+
 
 // Durch Festlegen von ComVisible auf FALSE werden die Typen in dieser Assembly
 // für COM-Komponenten unsichtbar.  Wenn Sie auf einen Typ in dieser Assembly von
